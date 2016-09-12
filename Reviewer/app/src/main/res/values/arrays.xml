@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="pref_syncConnectionTypes_entries">
+        <item>1 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    
+    <string-array name="pref_syncConnectionTypes_values">
+        <item>1</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    
+    <string-array name="pref_radiusConnectionTypes_entries">
+        <item>5 miles</item>
+        <item>10 miles</item>
+        <item>20 miles</item>
+        <item>50 miles</item>
+        <item>70 miles</item>
+        <item>100 miles</item>
+        <item>120 miles</item>
+        <item>150 miles</item>
+    </string-array>
+    
+    <string-array name="pref_radiusConnectionTypes_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>70</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    
+</resources>
